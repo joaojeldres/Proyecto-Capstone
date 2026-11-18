@@ -17,6 +17,8 @@ Sistema IoT integral de monitoreo estructural en tiempo real capaz de medir la a
 - **Ciberseguridad & Segmentación:** Aislamiento estricto de sensores en **VLAN 50** y servidores en **VLAN 100** mediante **ACLs extendidas** en Router0 (filtrado exclusivo de puertos TCP 1883/8883).
 - **Procesamiento Time-Series:** Almacenamiento histórico de lecturas en **InfluxDB** sobre máquina virtual Kali Linux.
 - **Plataforma NOC & Alertas:** Dashboards visuales en **Grafana** y notificaciones push automáticas en **Telegram Bot API** (< 1 segundo de latencia).
+  
+- VIDEO DE LA PRESENTACIÓN: https://drive.google.com/file/d/1EQr9P_QBATt60522HBDSR31IoH9XKUhw/view
 
 ---
 
